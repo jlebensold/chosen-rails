@@ -1,6 +1,6 @@
-@import "compass/css3/box-sizing";
-@import "compass/css3/images";
-@import "compass/css3/user-interface";
+@import "box-sizing.css.scss";
+@import "images.css.scss";
+@import "user-interface.css.scss";
 
 $chosen-sprite: image-url('chosen-sprite.png');
 $chosen-sprite-retina: image-url('chosen-sprite@2x.png');
